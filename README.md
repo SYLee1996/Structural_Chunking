@@ -184,8 +184,6 @@ config/
 
 This project uses BEIR datasets. Please download datasets following BEIR instructions and set paths as required by the loader.
 
-**BEIR benchmark**: https://github.com/beir-cellar/beir
-
 The following datasets are used in the paper:
 
 - **NFCorpus** (medical web documents/FAQs)
