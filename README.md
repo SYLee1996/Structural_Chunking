@@ -49,11 +49,8 @@ Structural Chunking consists of three main components:
 ## Project Structure
 ```
 src/
-├── __init__.py
 ├── main.py                                   # Main entrypoint for running experiments
 ├── model_utils.py                            # Model utility functions
-├── semantic.ipynb                            # Semantic analysis notebook
-├── processed_legal_data.json                 # Sample processed data
 ├── chunking_methods/                 
 │   ├── __init__.py
 │   ├── structural.py                         # Structural Chunking (proposed method)
